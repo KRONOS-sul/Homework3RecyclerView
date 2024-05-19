@@ -16,6 +16,11 @@ class MotivationFragment : Fragment() {
         "stay hard",
         "never give up",
         "no pain no gain",
+        "discipline is not like a straight line, it's more like a curve, consistent curve that never stops",
+        "discipline is not like a straight line, it's more like a curve, consistent curve that never stops",
+        "discipline is not like a straight line, it's more like a curve, consistent curve that never stops",
+        "discipline is not like a straight line, it's more like a curve, consistent curve that never stops",
+        "discipline is not like a straight line, it's more like a curve, consistent curve that never stops",
         "discipline is not like a straight line, it's more like a curve, consistent curve that never stops"
     )
 
